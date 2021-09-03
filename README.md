@@ -75,7 +75,7 @@ const andrelupus1 = {
 
 - Follow me in the Rocketseat community: André Lopes 🚀
 
-![Snake animation](https://github.com/andrelupus1/andrelupus1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andrelupus1/andrelupus1/blob/main/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p> -->
 
