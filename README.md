@@ -7,7 +7,9 @@
 <span><em>I'm Software Developer at <a target="_blank" rel="noopener noreferrer" href="https://www.redcheck.com.br/">REDCHECK</a></em></span><br>
 <span><em>Full Stack Web Freelancer</em></span>
 <br><br>
-<p>Born and raised in Belém - PA, where I live until today. Father, Husband, communicative, proactive and cheerful, a person who values simple and humble things. I love being with my family and friends. I like to read about various topics and I'm passionate about comics, anime, music, theater, cinema, biking and cooking. I'm always looking for time to go out with my family, also learn and, especially and teach my sons.</p>
+<p>I live in Belém/PA with my family (wife and children). I am communicative, proactive and cheerful, I value the simple and humble things in life. I love being with my family and friends. I like to read about different subjects, especially about technology and development.
+I do community work with children in my neighborhood, teaching them about principles and how to achieve a full life in all areas of society.
+I want to be the best father, husband and programmer every day and contribute to a better world!</p>
 To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="https://artedesignpa.com.br/">Personal Portfolio</a>, there you can view my full profile.
 
 ##
