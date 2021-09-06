@@ -37,28 +37,29 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const andrelupus1 = {
-  code: ['C++', 'C#', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java'],
-  certifications: ['SFC', 'SFPC', 'LLL'],
+  code: ['PHP', 'HTML', 'CSS', 'JavaScript', 'TypeScript*','C#', 'Java'],
+  certifications: ['SFC*'],
   technologies: {
     tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
-    mobile: ['React Native'],
-    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Docker'],
-    ides: ['VS Code', 'Visual Studio'],
+    mobile: ['Ionic','React Native'],
+    databases: ['SQL', 'MySQL', 'MongoDB'],
+    frameworks: ['Bootstrap', 'Spring Boot', 'CodeIgniter', 'Laravel'],
+    ides: ['VS Code'],
   },
   methodologies: ['Scrum', 'Kanban', 'Agile'],
-  interest: ['Python', 'php', 'Ruby', 'Kotlin', 'Angular', 'Bootstrap', 'GraphQL'],
-  otherCodes: ['Pascal', 'Visual Basic', 'Delphi']
+  interest: ['Kotlin', 'Swift', 'Angular', 'GraphQL']
 }
 ```
+*Getting...
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="30" width="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="C++" title="C++" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="30" width="40""/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
@@ -74,7 +75,7 @@ const andrelupus1 = {
 
 <h3>🔍 Fun facts:</h3>
 
-- Follow me in the Rocketseat community: André Lopes 🚀
+- Follow me in the Rocketseat/Dio community: André Lopes 🚀
 
 ![Snake animation](https://github.com/andrelupus1/andrelupus1/blob/main/blob/output/github-contribution-grid-snake.svg)
 
