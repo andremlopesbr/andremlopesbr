@@ -35,17 +35,17 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const andrelupus1 = {
-  code: ['PHP', 'HTML', 'CSS', 'JavaScript', 'TypeScript*','C#', 'Java'],
+  code: ['PHP', 'HTML', 'CSS', 'JavaScript', 'TypeScript*','Java'],
   certifications: ['SFC*'],
   technologies: {
-    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
+    tools: ['Node.js','ReactJS', 'Yarn', 'NPM', 'GIT', 'Others'],
     mobile: ['Ionic','React Native'],
     databases: ['SQL', 'MySQL', 'MongoDB'],
     frameworks: ['Bootstrap', 'Spring Boot', 'CodeIgniter', 'Laravel'],
     ides: ['VS Code'],
   },
   methodologies: ['Scrum', 'Kanban', 'Agile'],
-  interest: ['Kotlin', 'Swift', 'Angular', 'GraphQL']
+  interest: ['Kotlin', 'Swift', 'Angular', 'GraphQL', 'C#']
 }
 ```
 *Getting...
