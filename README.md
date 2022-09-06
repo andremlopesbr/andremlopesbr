@@ -5,7 +5,6 @@
 <!--About session-->
 <h3>Hi, I'm André! Welcome to my GitHub 😁</h3>
 <span><em>I'm Full Stack Web Developer React/PHP/Node</span>
-<span><em>Full Stack Web Freelancer</em></span>
 <br><br>
 <p>I'm from Brazil, I live in Belém/PA with my family (wife and children). I am communicative, proactive and cheerful, I value the simple and humble things in life. I love being with my family and friends. I like to read about different subjects, especially about technology and development.
 I make community work with children in my neighborhood, teaching them about principles and how to achieve a full life in all areas of society.
