@@ -6,7 +6,6 @@
 
 I'm from Belém, Brazil, where I live with my wife and children. I'm communicative, proactive, and value the simple things in life. Passionate about technology and community, I love spending time with family and friends, and reading on various topics. I also work with children in my neighborhood, teaching them principles and how to reach their full potential across different areas of life. Every day, I strive to be a better father, husband, and programmer.
 
-
 ---
 
 ### Connect with me:
@@ -17,7 +16,6 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 ---
 ## My Stats  
 ![App Screenshot](https://github-readme-stats.vercel.app/api?username=andrelupus1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
-
 
 ---
 
@@ -38,6 +36,7 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
   }
 ```
 * Conhecimento Básico, utlizados em pequenos projetos.
+
 ---
 ## Technologies & Tools
 
@@ -51,5 +50,5 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  
- ---
- ![SVG Image](https://github.com/andrelupus1/andrelupus1/blob/main/blob/output/github-contribution-grid-snake.svg)
+---
+![SVG Image](https://github.com/andrelupus1/andrelupus1/blob/main/blob/output/github-contribution-grid-snake.svg)
