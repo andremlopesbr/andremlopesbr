@@ -3,6 +3,11 @@
 **😏 Full Stack Web Developer | React / PHP / Node**
 
 ---
+**Português (PT-BR):**
+
+Sou de Belém, Brasil, onde moro com minha esposa e filhos. Sou comunicativo, proativo e valorizo as coisas simples da vida. Apaixonado por tecnologia e comunidade, adoro passar tempo com a família e amigos, além de ler sobre diversos assuntos. Também trabalho com crianças do meu bairro, ensinando princípios e ajudando-as a alcançar seu potencial em várias áreas da vida. Todos os dias, busco ser um pai, marido e programador melhor.
+
+**English (EN):**
 
 I'm from Belém, Brazil, where I live with my wife and children. I'm communicative, proactive, and value the simple things in life. Passionate about technology and community, I love spending time with family and friends, and reading on various topics. I also work with children in my neighborhood, teaching them principles and how to reach their full potential across different areas of life. Every day, I strive to be a better father, husband, and programmer.
 
@@ -66,8 +71,11 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 **Português (PT-BR):**
 
 ### 1) **NK Equipamentos - E-commerce Integrado**  
+
 **Descrição:** Desenvolvimento de um e-commerce com integração para cálculo de frete com Correios, pagamentos via Mercado Pago e gerenciamento de estoque com Bling.  
+
 **Domínio:** [https://nkequipamentos.com.br/](https://nkequipamentos.com.br/)
+
 **Hard Skills:** 
 - **Linguagens e Frameworks:** PHP, JavaScript
 - **Integração de APIs:** Correios (frete), Mercado Pago (pagamentos), Bling (estoque e emissão de nota fiscal)
@@ -75,8 +83,11 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 - **Banco de Dados:** MySQL
 
 ### 2) **Carneiro Ledo Advogados - Website para Captação de Leads**  
+
 **Descrição:** Criação de um site institucional para a Associação Carneiro Ledo Advogados, focado em captação de leads.  
+
 **Domínio:** [https://carneiroledo.com.br/](https://carneiroledo.com.br/)
+
 **Hard Skills:** 
 - **Linguagens e Frameworks:** HTML, CSS, JavaScript, PHP
 - **Ferramentas de Captação de Leads:** Google Analytics, Google Tag Manager, Pixel do Facebook
@@ -84,8 +95,11 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 - **Banco de Dados:** MySQL
 
 ### 3) **RedCheck - SaaS de Laudo Médico em Oftalmologia**  
+
 **Descrição:** Desenvolvimento de uma solução SaaS para emissão de laudos oftalmológicos, com foco em segurança e escalabilidade para clínicas e profissionais de saúde.  
+
 **Domínio:** [https://redcheck.com.br/](https://redcheck.com.br/)
+
 **Hard Skills:** 
 - **Linguagens e Frameworks:** PHP (Laravel), JavaScript
 - **Banco de Dados:** PostgreSQL
@@ -93,9 +107,12 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 - **Hospedagem e Infraestrutura:** AWS (Amazon Web Services), Docker
 
 ### 4) **OftQuiz (CBOQuiz) - Aplicativo de Quiz para Oftalmologia**  
+
 **Descrição:** Criação de um aplicativo de quizzes educacionais voltado para oftalmologistas e estudantes de oftalmologia. Disponível nas lojas:  
+
 **Apple Store:** [https://apps.apple.com/tr/app/cbo-quiz/id6444389949](https://apps.apple.com/tr/app/cbo-quiz/id6444389949)  
 **Google Store:** [https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR)
+
 **Hard Skills:** 
 - **Framework:** Mobile: Ionic, Angular; Web: CodeIgniter
 - **Desenvolvimento Web:** Criado um Sistema Web para criar novas questões no Quiz.
@@ -103,7 +120,9 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 - **Publicação:** Google Play, Apple App Store 
 
 ### 5) **NSP - Sistema Web e Mobile para Segurança do Paciente**  
+
 **Descrição:** Desenvolvimento de um protótipo de sistema Web e Mobile para notificação de incidentes e eventos adversos na área da saúde, visando melhorar a segurança do paciente e o monitoramento de cuidados médicos.
+
 **Hard Skills:** 
 - **Linguagens e Frameworks:** Mobile: Ionic, Angular; Web: CodeIgniter
 - **Banco de Dados:** MySql
@@ -111,7 +130,9 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 - **Integração com API:** Para autenticação e notificação de eventos
 
 ### 6) **Eye-T - Aplicativo de Notificação e Monitoramento de Transplante de Córnea**  
+
 **Descrição:** Criação de um aplicativo para notificação e monitoramento de transplantes de córnea, oferecendo suporte ao acompanhamento pós-operatório e garantindo maior segurança aos pacientes.
+
 **Hard Skills:** 
 - **Linguagens e Frameworks:** Ionic, Node.js
 - **Banco de Dados:** MySql
@@ -119,12 +140,14 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 - **Integração de API:** Notificação e monitoramento em tempo real
 
 ### 7) **Contrate.Ba - Plataforma Mobile e Web para Contratação de Profissionais**  
+
 **Descrição:** Desenvolvimento de uma plataforma mobile para contratação de profissionais, com uma aplicação web complementar para gerenciamento e administração de perfis dos profissionais cadastrados. Este projeto foi implementado para facilitar a conexão entre contratantes e prestadores de serviços, promovendo o desenvolvimento econômico e o acesso a mão-de-obra qualificada.
 
-**Sobre o Projeto:** ![Site da Prefeitura - BA](https://www.ba.gov.br/trabalho/contrateba)  
-**Apple Store:** ![App Android](https://play.google.com/store/apps/details?id=com.contrateba)  
-**Google Store:** ![App Apple](https://apps.apple.com/br/app/contrate-ba-2-0/id6443334327?platform=iphone)  
-**Site Intranet:** ![Painel Administrativo](http://contrate.ba.gov.br)  
+**Sobre o Projeto:** [Site da Prefeitura - BA](https://www.ba.gov.br/trabalho/contrateba)  
+
+**Apple Store:** [App Android](https://play.google.com/store/apps/details?id=com.contrateba)  
+**Google Store:** [App Apple](https://apps.apple.com/br/app/contrate-ba-2-0/id6443334327?platform=iphone)  
+**Site Intranet:** [Painel Administrativo](http://contrate.ba.gov.br)  
 
 **Hard Skills:**  
 - **Linguagens e Frameworks:** ReactJs com TypeScript (Web), React Native (Mobile)
@@ -139,32 +162,44 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 **English (EN):**
 
 ### 1) **NK Equipamentos - Integrated E-commerce**  
+
 **Description:** Development of an e-commerce platform integrated with Correios for shipping calculations, Mercado Pago for payment processing, and Bling for inventory and invoicing management.  
+
 **Domain:** [https://nkequipamentos.com.br/](https://nkequipamentos.com.br/)
 
 ### 2) **Carneiro Ledo Advogados - Lead Generation Website**  
+
 **Description:** Created an institutional website for Carneiro Ledo Advogados Association, designed to generate leads.  
+
 **Domain:** [https://carneiroledo.com.br/](https://carneiroledo.com.br/)
 
 ### 3) **RedCheck - SaaS for Medical Reports in Ophthalmology**  
+
 **Description:** Developed a SaaS solution for ophthalmology report generation, emphasizing security and scalability for clinics and healthcare professionals.  
+
 **Domain:** [https://redcheck.com.br/](https://redcheck.com.br/)
 
 ### 4) **CBOQuiz - Quiz Application for Ophthalmology**  
+
 **Description:** Created an educational quiz app tailored for ophthalmologists and students. Available on:  
+
 **Apple Store:** [https://apps.apple.com/tr/app/cbo-quiz/id6444389949](https://apps.apple.com/tr/app/cbo-quiz/id6444389949)  
 **Google Store:** [https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR)
 
 ### 5) **NSP - Web and Mobile System for Patient Safety**  
+
 **Description:** Developed a Web and Mobile prototype system for reporting incidents and adverse events in healthcare, aimed at improving patient safety and monitoring.
 
 ### 6) **Eye-T - Corneal Transplant Notification and Monitoring Application**  
+
 **Description:** Created an application for corneal transplant notifications and monitoring, providing post-operative support to enhance patient safety.
 
 ### 7) **Contrate.Ba - Mobile and Web Platform for Professional Hiring**  
+
 **Description:** Developed a mobile platform to connect job seekers with employers, complemented by a web application for managing professional profiles. This project facilitates the connection between clients and service providers, fostering economic development and access to skilled labor.
 
 **About the Project:** [Bahia Government Website](https://www.ba.gov.br/trabalho/contrateba)  
+
 **Apple Store:** [App for iOS](https://apps.apple.com/br/app/contrate-ba-2-0/id6443334327?platform=iphone)  
 **Google Store:** [App for Android](https://play.google.com/store/apps/details?id=com.contrateba)  
 **Intranet Site:** [Admin Panel](http://contrate.ba.gov.br)  
