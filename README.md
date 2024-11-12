@@ -68,53 +68,106 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 ### 1) **NK Equipamentos - E-commerce Integrado**  
 **Descrição:** Desenvolvimento de um e-commerce com integração para cálculo de frete com Correios, pagamentos via Mercado Pago e gerenciamento de estoque com Bling.  
 **Domínio:** [https://nkequipamentos.com.br/](https://nkequipamentos.com.br/)
+**Hard Skills:** 
+- **Linguagens e Frameworks:** PHP, JavaScript
+- **Integração de APIs:** Correios (frete), Mercado Pago (pagamentos), Bling (estoque e emissão de nota fiscal)
+- **Ferramentas de E-commerce:** WooCommerce, Shopify ou Magento (caso relevante)
+- **Banco de Dados:** MySQL
 
 ### 2) **Carneiro Ledo Advogados - Website para Captação de Leads**  
 **Descrição:** Criação de um site institucional para a Associação Carneiro Ledo Advogados, focado em captação de leads.  
 **Domínio:** [https://carneiroledo.com.br/](https://carneiroledo.com.br/)
+**Hard Skills:** 
+- **Linguagens e Frameworks:** HTML, CSS, JavaScript, PHP
+- **Ferramentas de Captação de Leads:** Google Analytics, Google Tag Manager, Pixel do Facebook
+- **SEO e Otimização:** Rank Math SEO
+- **Banco de Dados:** MySQL
 
 ### 3) **RedCheck - SaaS de Laudo Médico em Oftalmologia**  
 **Descrição:** Desenvolvimento de uma solução SaaS para emissão de laudos oftalmológicos, com foco em segurança e escalabilidade para clínicas e profissionais de saúde.  
 **Domínio:** [https://redcheck.com.br/](https://redcheck.com.br/)
+**Hard Skills:** 
+- **Linguagens e Frameworks:** PHP (Laravel), JavaScript
+- **Banco de Dados:** PostgreSQL
+- **Integração de APIs:** Assinatura Eletrônica e Notificação de Resultados
+- **Hospedagem e Infraestrutura:** AWS (Amazon Web Services), Docker
 
-### 4) **CBOQuiz - Aplicativo de Quiz para Oftalmologia**  
+### 4) **OftQuiz (CBOQuiz) - Aplicativo de Quiz para Oftalmologia**  
 **Descrição:** Criação de um aplicativo de quizzes educacionais voltado para oftalmologistas e estudantes de oftalmologia. Disponível nas lojas:  
 **Apple Store:** [https://apps.apple.com/tr/app/cbo-quiz/id6444389949](https://apps.apple.com/tr/app/cbo-quiz/id6444389949)  
-**Google Store:** [https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR)  
+**Google Store:** [https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR)
+**Hard Skills:** 
+- **Framework:** Mobile: Ionic, Angular; Web: CodeIgniter
+- **Desenvolvimento Web:** Criado um Sistema Web para criar novas questões no Quiz.
+- **Banco de Dados:** MySql 
+- **Publicação:** Google Play, Apple App Store 
 
 ### 5) **NSP - Sistema Web e Mobile para Segurança do Paciente**  
 **Descrição:** Desenvolvimento de um protótipo de sistema Web e Mobile para notificação de incidentes e eventos adversos na área da saúde, visando melhorar a segurança do paciente e o monitoramento de cuidados médicos.
+**Hard Skills:** 
+- **Linguagens e Frameworks:** Mobile: Ionic, Angular; Web: CodeIgniter
+- **Banco de Dados:** MySql
+- **Hospedagem e Infraestrutura:**Apache/Servidor Ubuntu EC2
+- **Integração com API:** Para autenticação e notificação de eventos
 
 ### 6) **Eye-T - Aplicativo de Notificação e Monitoramento de Transplante de Córnea**  
-**Descrição:** Criação de um aplicativo para notificação e monitoramento de transplantes de córnea, oferecendo suporte ao acompanhamento pós-operatório e garantindo maior segurança aos pacientes. 
+**Descrição:** Criação de um aplicativo para notificação e monitoramento de transplantes de córnea, oferecendo suporte ao acompanhamento pós-operatório e garantindo maior segurança aos pacientes.
+**Hard Skills:** 
+- **Linguagens e Frameworks:** Ionic, Node.js
+- **Banco de Dados:** MySql
+- **Hospedagem e Infraestrutura:** Apache/Servidor Ubuntu EC2
+- **Integração de API:** Notificação e monitoramento em tempo real
+
+### 7) **Contrate.Ba - Plataforma Mobile e Web para Contratação de Profissionais**  
+**Descrição:** Desenvolvimento de uma plataforma mobile para contratação de profissionais, com uma aplicação web complementar para gerenciamento e administração de perfis dos profissionais cadastrados. Este projeto foi implementado para facilitar a conexão entre contratantes e prestadores de serviços, promovendo o desenvolvimento econômico e o acesso a mão-de-obra qualificada.
+
+**Sobre o Projeto:** ![Site da Prefeitura - BA](https://www.ba.gov.br/trabalho/contrateba)  
+**Apple Store:** ![App Android](https://play.google.com/store/apps/details?id=com.contrateba)  
+**Google Store:** ![App Apple](https://apps.apple.com/br/app/contrate-ba-2-0/id6443334327?platform=iphone)  
+**Site Intranet:** ![Painel Administrativo](http://contrate.ba.gov.br)  
+
+**Hard Skills:**  
+- **Linguagens e Frameworks:** ReactJs com TypeScript (Web), React Native (Mobile)
+- **Backend e API:** Java com SpringBoot para lógica de negócio e APIs RESTful
+- **Banco de Dados:** MySql, integrando informações de usuários, serviços e transações
+- **Autenticação e Segurança:** JWT (JSON Web Tokens) para autenticação segura e controle de acesso
+- **Hospedagem e Infraestrutura:** Servidor Ubuntu da PRODEB - Companhia de Processamento de Dados do Estado da Bahia
+- **Integração de APIs:** API de localização e geolocalização para conectar usuários clientes e profissionais.
 
 ---
 
 **English (EN):**
 
 ### 1) **NK Equipamentos - Integrated E-commerce**  
-**Description:** Development of an e-commerce platform integrated with Correios for shipping, Mercado Pago for payment processing, and Bling for inventory management and invoicing.  
+**Description:** Development of an e-commerce platform integrated with Correios for shipping calculations, Mercado Pago for payment processing, and Bling for inventory and invoicing management.  
 **Domain:** [https://nkequipamentos.com.br/](https://nkequipamentos.com.br/)
 
-### 2) **Carneiro Ledo Advogados - Lead Generation Website**
-**Har**
-**Description:** Created an institutional website for Carneiro Ledo Advogados Association, focused on lead generation.  
+### 2) **Carneiro Ledo Advogados - Lead Generation Website**  
+**Description:** Created an institutional website for Carneiro Ledo Advogados Association, designed to generate leads.  
 **Domain:** [https://carneiroledo.com.br/](https://carneiroledo.com.br/)
 
 ### 3) **RedCheck - SaaS for Medical Reports in Ophthalmology**  
-**Description:** Development of a SaaS solution for ophthalmology reports, focusing on security and scalability for clinics and health professionals.  
+**Description:** Developed a SaaS solution for ophthalmology report generation, emphasizing security and scalability for clinics and healthcare professionals.  
 **Domain:** [https://redcheck.com.br/](https://redcheck.com.br/)
 
 ### 4) **CBOQuiz - Quiz Application for Ophthalmology**  
-**Description:** Created an educational quiz app for ophthalmologists and ophthalmology students. Available on:  
+**Description:** Created an educational quiz app tailored for ophthalmologists and students. Available on:  
 **Apple Store:** [https://apps.apple.com/tr/app/cbo-quiz/id6444389949](https://apps.apple.com/tr/app/cbo-quiz/id6444389949)  
-**Google Store:** [https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR)  
+**Google Store:** [https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.cbo.cboquiz&hl=pt_BR)
 
 ### 5) **NSP - Web and Mobile System for Patient Safety**  
-**Description:** Development of a Web and Mobile prototype system for reporting incidents and adverse events in healthcare, aiming to improve patient safety and monitoring.
+**Description:** Developed a Web and Mobile prototype system for reporting incidents and adverse events in healthcare, aimed at improving patient safety and monitoring.
 
 ### 6) **Eye-T - Corneal Transplant Notification and Monitoring Application**  
-**Description:** Created an application for corneal transplant notification and monitoring, providing post-surgery support and enhanced patient safety.
+**Description:** Created an application for corneal transplant notifications and monitoring, providing post-operative support to enhance patient safety.
+
+### 7) **Contrate.Ba - Mobile and Web Platform for Professional Hiring**  
+**Description:** Developed a mobile platform to connect job seekers with employers, complemented by a web application for managing professional profiles. This project facilitates the connection between clients and service providers, fostering economic development and access to skilled labor.
+
+**About the Project:** [Bahia Government Website](https://www.ba.gov.br/trabalho/contrateba)  
+**Apple Store:** [App for iOS](https://apps.apple.com/br/app/contrate-ba-2-0/id6443334327?platform=iphone)  
+**Google Store:** [App for Android](https://play.google.com/store/apps/details?id=com.contrateba)  
+**Intranet Site:** [Admin Panel](http://contrate.ba.gov.br)  
 
 ---
 ![SVG Image](https://github.com/andrelupus1/andrelupus1/blob/main/blob/output/github-contribution-grid-snake.svg)
