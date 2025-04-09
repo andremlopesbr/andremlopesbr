@@ -15,26 +15,26 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 
 ### ✨ Connect with me
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=andrelupus1)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white)](https://github.com/andrelupus1)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=andremlopesbr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white)](https://github.com/andremlopesbr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremlopesbr)
 
 ---
 
 ### 📊 My Stats  
 
-![App Screenshot](https://github-readme-stats.vercel.app/api?username=andrelupus1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
+![App Screenshot](https://github-readme-stats.vercel.app/api?username=andremlopesbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
 
 ---
 ### 😎 Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelupus1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremlopesbr&layout=compact)
 
 ---
 
 ### 🚀 My Soft Skill
 
 ```javascript
-  const andrelupus1 = {
+  const andremlopesbr = {
     code: ['PHP', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java*', 'Python*', 'ReactJS', 'Vue.js','Angular*'],
     certifications: ['Scrum Fundamentals Certified'],
     technologies: {
@@ -205,4 +205,4 @@ I'm from Belém, Brazil, where I live with my wife and children. I'm communicati
 **Intranet Site:** [Admin Panel](http://contrate.ba.gov.br)  
 
 ---
-![SVG Image](https://github.com/andrelupus1/andrelupus1/blob/main/blob/output/github-contribution-grid-snake.svg)
+![SVG Image](https://github.com/andremlopesbr/andremlopesbr/blob/main/blob/output/github-contribution-grid-snake.svg)
