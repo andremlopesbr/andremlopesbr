@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o André! Bem-vindo ao meu GitHub 😄
 
-## 🤖 **Desenvolvedor Full Stack Sênior | Especialista em Automação & IA (n8n, ChatGPT, Chatbots) | Java, Spring Boot, React, Node.js, AWS**
+## 🤖 **Desenvolvedor Full Stack Sênior | Especialista em Automação & IA (n8n, LangChain, Chatbots e outros)**
 
 Sou de Belém do Pará (Brasil), apaixonado por tecnologia, código limpo e soluções que impactam a vida real. Tenho mais de 8 anos de experiência com desenvolvimento de sistemas web e mobile, com foco em arquitetura escalável, segurança, performance e automação.
 
@@ -8,7 +8,7 @@ Trabalho com stacks modernas como **Java (Spring Boot), React, Node.js, PHP e Py
 
 Atuo com metodologias ágeis (Scrum/Kanban), boas práticas DevOps (CI/CD com GitHub Actions, Docker, AWS) e prezo sempre por código bem testado e documentado.
 
-### 🚀 Meus diferenciais:
+### 🚀 Meus diferenciais
 
 - ✅ **Especialista em Automação & IA**: n8n, ChatGPT, LangChain, Gemini AI, chatbots inteligentes
 - ✅ **Integrações Complexas**: Odoo ERP, WhatsApp API, pagamentos (Stripe, PagSeguro, Asaas), NFS-e, autenticação OAuth, notificações push
@@ -17,7 +17,7 @@ Atuo com metodologias ágeis (Scrum/Kanban), boas práticas DevOps (CI/CD com Gi
 - ✅ **Forte base em UI/UX, SEO e acessibilidade**
 - ✅ **DevOps & Cloud**: Docker, AWS (EC2, S3, Lambda, SQS), CI/CD pipelines
 
-### 🔥 Automação & IA - Minhas Especialidades:
+### 🔥 Automação & IA - Minhas Especialidades
 
 - **n8n** - Automação de workflows e integrações entre sistemas
 - **ChatGPT & Gemini AI** - Desenvolvimento de chatbots inteligentes e assistentes virtuais
@@ -30,10 +30,10 @@ Atuo com metodologias ágeis (Scrum/Kanban), boas práticas DevOps (CI/CD com Gi
 
 ## ✨ Sobre Mim
 
-**🇧🇷 Português:**  
+**🇧🇷 Português:**
 Cristão, pai, casado e comunicativo. Gosto de ensinar, aprender e viver com propósito. Trabalho também com crianças na minha comunidade, compartilhando princípios e encorajando a sonhar.
 
-**🇺🇸 English:**  
+**🇺🇸 English:**
 Christian, father, husband and communicator. I love teaching, learning and building with purpose. I also work with kids in my community, helping them grow with values and vision.
 
 ---
@@ -65,7 +65,7 @@ Christian, father, husband and communicator. I love teaching, learning and build
 
 ---
 
-## 📫 Como me encontrar:
+## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremlopesbr/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andremlopesbr)
