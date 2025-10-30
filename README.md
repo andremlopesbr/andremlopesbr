@@ -1,12 +1,10 @@
-e# 👋 Olá, eu sou o André! Bem-vindo ao meu GitHub 😄
+# 👋 Olá, eu sou o André! Bem-vindo ao meu GitHub 😄
 
-## 🤖 **Especialista em Automação & IA (n8n, ChatGPT, Chatbots)**
-
-**👨‍💻 Desenvolvedor Full Stack | Java · Spring Boot · React · Node.js · Automação · IA · Integrações · DevOps · SaaS**
+## 🤖 **Desenvolvedor Full Stack Sênior | Especialista em Automação & IA (n8n, ChatGPT, Chatbots) | Java, Spring Boot, React, Node.js, AWS**
 
 Sou de Belém do Pará (Brasil), apaixonado por tecnologia, código limpo e soluções que impactam a vida real. Tenho mais de 8 anos de experiência com desenvolvimento de sistemas web e mobile, com foco em arquitetura escalável, segurança, performance e automação.
 
-Trabalho com stacks modernas como **Java + Spring Boot, ReactJS, Node.js, PHP e Python (IA/TensorFlow)**, além de integração com APIs de pagamento, sistemas fiscais, geolocalização e muito mais.
+Trabalho com stacks modernas como **Java (Spring Boot), React, Node.js, PHP e Python (IA/TensorFlow)**, além de integração com APIs de pagamento, sistemas fiscais, geolocalização e muito mais.
 
 Atuo com metodologias ágeis (Scrum/Kanban), boas práticas DevOps (CI/CD com GitHub Actions, Docker, AWS) e prezo sempre por código bem testado e documentado.
 
